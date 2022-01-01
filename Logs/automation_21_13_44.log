@@ -1,0 +1,26 @@
+2021-12-31 16:13:44,690 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 16:13:44,691 - conftest - INFO - Requested configfile path : firefox
+2021-12-31 16:13:44,692 - conftest - INFO - Getting test details for firefox
+2021-12-31 16:13:44,692 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook'}}
+2021-12-31 16:13:44,693 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 16:13:44,694 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 16:13:44,695 - Utility - INFO - Requested Password : goodwin
+2021-12-31 16:13:50,914 - conftest - INFO - created firefox driver
+2021-12-31 16:13:50,916 - Test_01 - INFO - *************** Test_001_Login *****************
+2021-12-31 16:13:50,916 - Test_01 - INFO - ****Started Home page title test ****
+2021-12-31 16:13:52,379 - Test_01 - INFO - ****Home page title test passed****
+2021-12-31 16:13:53,330 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 16:13:53,330 - conftest - INFO - Requested configfile path : firefox
+2021-12-31 16:13:53,330 - conftest - INFO - Getting test details for firefox
+2021-12-31 16:13:53,331 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook'}}
+2021-12-31 16:13:53,332 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 16:13:53,333 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 16:13:53,333 - Utility - INFO - Requested Password : goodwin
+2021-12-31 16:13:59,518 - conftest - INFO - created firefox driver
+2021-12-31 16:13:59,519 - Test_01 - INFO - ************** test login began **************
+2021-12-31 16:14:00,900 - Login_Page_object - INFO - ********* Driver recieved ***********
+2021-12-31 16:14:00,900 - Login_Page_object - INFO - clearing text_box_user_id
+2021-12-31 16:14:00,923 - Login_Page_object - INFO - passing user_id
+2021-12-31 16:14:00,966 - Login_Page_object - INFO - clearing pasword_text_box
+2021-12-31 16:14:00,974 - Login_Page_object - INFO - passing password
+2021-12-31 16:14:00,999 - Login_Page_object - INFO - selecting login_in_button

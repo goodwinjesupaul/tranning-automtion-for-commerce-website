@@ -1,0 +1,16 @@
+{
+"common_info":
+ {
+    "Base_Url": "https://www.facebook.com/","User_name": "9363262047","Password": "goodwin"
+ },
+ "chrome_details":
+ {
+    "test_case_1":{"title_name": "Facebook"},
+    "test_case_2": {"title_name":"Facebook – log in or sign up"}
+ },
+ "firefox_details":
+ {
+    "test_case_1":{"title_name": "Facebook"},
+    "test_case_2": {"title_name":"Facebook"}
+ }
+}

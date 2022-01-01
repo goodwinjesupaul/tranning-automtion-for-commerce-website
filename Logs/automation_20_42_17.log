@@ -1,0 +1,5 @@
+2021-12-31 15:42:17,315 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 15:42:17,316 - conftest - INFO - Requested configfile path : chrome
+2021-12-31 15:42:17,316 - conftest - INFO - Getting test details for chrome
+2021-12-31 15:42:17,316 - conftest - INFO - Getting test details for chrome
+2021-12-31 15:42:17,326 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook – log in or sign up'}}

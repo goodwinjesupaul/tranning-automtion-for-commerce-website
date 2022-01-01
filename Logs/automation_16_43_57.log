@@ -1,0 +1,5 @@
+2021-12-31 11:43:57,850 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 11:43:57,852 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 11:43:57,854 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 11:43:57,855 - Utility - INFO - Requested Password : goodwin
+2021-12-31 11:43:57,855 - Utility - INFO - Requested validator : Facebook

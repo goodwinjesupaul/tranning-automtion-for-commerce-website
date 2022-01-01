@@ -1,0 +1,7 @@
+2021-12-31 16:07:39,967 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 16:07:39,967 - conftest - INFO - Requested configfile path : firefox
+2021-12-31 16:07:39,968 - conftest - INFO - Requested configfile path : firefox
+2021-12-31 16:07:39,968 - conftest - INFO - Getting test details for firefox
+2021-12-31 16:07:39,968 - conftest - INFO - Getting test details for firefox
+2021-12-31 16:07:39,968 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook'}}
+2021-12-31 16:07:39,968 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook'}}

@@ -1,0 +1,27 @@
+2021-12-31 13:19:53,791 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 13:19:53,792 - conftest - INFO - Requested configfile path : chrome
+2021-12-31 13:19:53,792 - conftest - INFO - Getting test details for chrome
+2021-12-31 13:19:53,793 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook – log in or sign up'}}
+2021-12-31 13:19:53,795 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 13:19:53,796 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 13:19:53,797 - Utility - INFO - Requested Password : goodwin
+2021-12-31 13:19:55,567 - conftest - INFO - created chrome driver
+2021-12-31 13:19:55,567 - Test_01 - INFO - *************** Test_001_Login *****************
+2021-12-31 13:19:55,567 - Test_01 - INFO - ****Started Home page title test ****
+2021-12-31 13:19:56,795 - Test_01 - INFO - ****Home page title test passed****
+2021-12-31 13:19:56,952 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 13:19:56,952 - conftest - INFO - Requested configfile path : chrome
+2021-12-31 13:19:56,953 - conftest - INFO - Getting test details for chrome
+2021-12-31 13:19:56,954 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook – log in or sign up'}}
+2021-12-31 13:19:56,957 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 13:19:56,958 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 13:19:56,959 - Utility - INFO - Requested Password : goodwin
+2021-12-31 13:19:58,477 - conftest - INFO - created chrome driver
+2021-12-31 13:19:58,478 - Test_01 - INFO - ************** test login began **************
+2021-12-31 13:19:59,597 - Login_Page_object - INFO - ********* Driver recieved ***********
+2021-12-31 13:19:59,597 - Login_Page_object - INFO - clearing text_box_user_id
+2021-12-31 13:19:59,640 - Login_Page_object - INFO - passing user_id
+2021-12-31 13:19:59,689 - Login_Page_object - INFO - clearing pasword_text_box
+2021-12-31 13:19:59,724 - Login_Page_object - INFO - passing password
+2021-12-31 13:19:59,784 - Login_Page_object - INFO - selecting login_in_button
+2021-12-31 13:20:05,898 - Test_01 - ERROR - Actual Title is not same as:  Facebook � log in or sign up

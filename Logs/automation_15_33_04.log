@@ -1,0 +1,25 @@
+2021-12-31 10:33:04,615 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 10:33:04,616 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 10:33:04,617 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 10:33:04,618 - Utility - INFO - Requested Password : goodwin
+2021-12-31 10:33:04,618 - Utility - INFO - Requested validator : Facebook
+2021-12-31 10:33:04,618 - conftest - INFO - Requested configfile path : chrome
+2021-12-31 10:33:06,131 - conftest - INFO - created chrome driver
+2021-12-31 10:33:06,132 - Test_01 - INFO - *************** Test_001_Login *****************
+2021-12-31 10:33:06,132 - Test_01 - INFO - ****Started Home page title test ****
+2021-12-31 10:33:07,335 - Test_01 - INFO - ****Home page title test passed****
+2021-12-31 10:33:07,479 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 10:33:07,481 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 10:33:07,482 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 10:33:07,483 - Utility - INFO - Requested Password : goodwin
+2021-12-31 10:33:07,484 - Utility - INFO - Requested validator : Facebook
+2021-12-31 10:33:07,485 - conftest - INFO - Requested configfile path : chrome
+2021-12-31 10:33:08,953 - conftest - INFO - created chrome driver
+2021-12-31 10:33:08,954 - Test_01 - INFO - ************** test login began **************
+2021-12-31 10:33:10,021 - Login_Page_object - INFO - ********* Driver recieved ***********
+2021-12-31 10:33:10,022 - Login_Page_object - INFO - clearing text_box_user_id
+2021-12-31 10:33:10,057 - Login_Page_object - INFO - passing user_id
+2021-12-31 10:33:10,099 - Login_Page_object - INFO - clearing pasword_text_box
+2021-12-31 10:33:10,132 - Login_Page_object - INFO - passing password
+2021-12-31 10:33:10,185 - Login_Page_object - INFO - selecting login_in_button
+2021-12-31 10:33:15,875 - Test_01 - ERROR - Actual Title is not same as:  Facebook – log in or sign up

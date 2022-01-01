@@ -1,0 +1,23 @@
+2021-12-31 09:05:38,106 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 09:05:38,107 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 09:05:38,107 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 09:05:38,108 - Utility - INFO - Requested Password : goodwin
+2021-12-31 09:05:38,108 - conftest - INFO - Requested configfile path : firefox
+2021-12-31 09:05:44,825 - conftest - INFO - created firefox driver
+2021-12-31 09:05:44,825 - Test_01 - INFO - *************** Test_001_Login *****************
+2021-12-31 09:05:44,826 - Test_01 - INFO - ****Started Home page title test ****
+2021-12-31 09:05:46,724 - Test_01 - INFO - ****Home page title test passed****
+2021-12-31 09:05:47,951 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 09:05:47,952 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 09:05:47,952 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 09:05:47,953 - Utility - INFO - Requested Password : goodwin
+2021-12-31 09:05:47,954 - conftest - INFO - Requested configfile path : firefox
+2021-12-31 09:05:55,178 - conftest - INFO - created firefox driver
+2021-12-31 09:05:55,179 - Test_01 - INFO - ************** test login began **************
+2021-12-31 09:05:57,033 - Login_Page_object - INFO - ********* Driver recieved ***********
+2021-12-31 09:05:57,033 - Login_Page_object - INFO - clearing text_box_user_id
+2021-12-31 09:05:57,063 - Login_Page_object - INFO - passing user_id
+2021-12-31 09:05:57,115 - Login_Page_object - INFO - clearing pasword_text_box
+2021-12-31 09:05:57,171 - Login_Page_object - INFO - passing password
+2021-12-31 09:05:57,229 - Login_Page_object - INFO - selecting login_in_button
+2021-12-31 09:06:03,990 - Test_01 - ERROR - Actual Title is not same as:  Facebook

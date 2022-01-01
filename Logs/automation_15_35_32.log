@@ -1,0 +1,23 @@
+2021-12-31 10:35:32,109 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 10:35:32,110 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 10:35:32,111 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 10:35:32,112 - Utility - INFO - Requested Password : goodwin
+2021-12-31 10:35:32,113 - Utility - INFO - Requested validator : None
+2021-12-31 10:35:32,114 - conftest - INFO - Requested configfile path : chrome
+2021-12-31 10:35:33,625 - conftest - INFO - created chrome driver
+2021-12-31 10:35:33,626 - Test_01 - INFO - *************** Test_001_Login *****************
+2021-12-31 10:35:33,627 - Test_01 - INFO - ****Started Home page title test ****
+2021-12-31 10:35:34,790 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 10:35:34,791 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 10:35:34,792 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 10:35:34,793 - Utility - INFO - Requested Password : goodwin
+2021-12-31 10:35:34,793 - Utility - INFO - Requested validator : None
+2021-12-31 10:35:34,794 - conftest - INFO - Requested configfile path : chrome
+2021-12-31 10:35:36,216 - conftest - INFO - created chrome driver
+2021-12-31 10:35:36,216 - Test_01 - INFO - ************** test login began **************
+2021-12-31 10:35:37,240 - Login_Page_object - INFO - ********* Driver recieved ***********
+2021-12-31 10:35:37,240 - Login_Page_object - INFO - clearing text_box_user_id
+2021-12-31 10:35:37,301 - Login_Page_object - INFO - passing user_id
+2021-12-31 10:35:37,363 - Login_Page_object - INFO - clearing pasword_text_box
+2021-12-31 10:35:37,412 - Login_Page_object - INFO - passing password
+2021-12-31 10:35:37,507 - Login_Page_object - INFO - selecting login_in_button

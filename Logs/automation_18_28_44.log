@@ -1,0 +1,9 @@
+2021-12-31 13:28:44,736 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2021-12-31 13:28:44,737 - conftest - INFO - Requested configfile path : firefox
+2021-12-31 13:28:50,966 - conftest - INFO - created firefox driver
+2021-12-31 13:28:50,968 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2021-12-31 13:28:50,969 - Utility - INFO - Requested User_name : 9363262047
+2021-12-31 13:28:50,970 - Utility - INFO - Requested Password : goodwin
+2021-12-31 13:28:57,655 - conftest - INFO - created firefox driver
+2021-12-31 13:28:57,656 - Test_01 - INFO - *************** Test_001_Login *****************
+2021-12-31 13:28:57,656 - Test_01 - INFO - ****Started Home page title test ****
