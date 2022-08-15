@@ -11,7 +11,7 @@ class ReadConfig:
             print(Baseurl)
             # print(Baseurl["common_info"].get("Base_Url"))
             logger.info(f'Requested base_url : {Baseurl["common_info"].get("Base_Url")}')
-            return(Baseurl["common_info"].get("Base_Url"))
+        return(Baseurl["common_info"].get("Base_Url"))
     
     @staticmethod
     def GetUsername(configfile):
@@ -19,7 +19,7 @@ class ReadConfig:
             user_name = json.load(name)
             # print(Baseurl["common_info"].get("Base_Url"))
             logger.info(f'Requested User_name : {user_name["common_info"].get("User_name")}')
-            return(user_name["common_info"].get("User_name"))
+        return(user_name["common_info"].get("User_name"))
     
     @staticmethod
     def GetPassword(configfile):
@@ -27,7 +27,7 @@ class ReadConfig:
             password = json.load(pas)
             # print(Baseurl["common_info"].get("Base_Url"))
             logger.info(f'Requested Password : {password["common_info"].get("Password")}')
-            return(password["common_info"].get("Password"))
+        return(password["common_info"].get("Password"))
 
     # @staticmethod
     # def GetChromeValidators(configfile):
