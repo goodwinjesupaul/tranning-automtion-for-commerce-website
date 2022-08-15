@@ -1,0 +1,33 @@
+2022-01-03 10:42:58,890 - conftest - INFO - Requested configfile path : chrome
+2022-01-03 10:43:00,507 - conftest - INFO - created chrome driver
+2022-01-03 10:43:00,507 - test_login_DDT - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-01-03 10:43:00,508 - test_login_DDT - INFO - ******* Starting Login DDT Test **********
+2022-01-03 10:43:05,970 - Login_Page_object - INFO - ********* Driver recieved ***********
+2022-01-03 10:43:09,365 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 10:43:09,400 - Login_Page_object - INFO - passing user_id
+2022-01-03 10:43:09,456 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 10:43:09,499 - Login_Page_object - INFO - passing password
+2022-01-03 10:43:09,541 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 10:43:18,070 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:43:18,070 - Login_Page_object - INFO - selecting login_out_button
+2022-01-03 10:43:22,147 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 10:43:22,181 - Login_Page_object - INFO - passing user_id
+2022-01-03 10:43:22,238 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 10:43:22,277 - Login_Page_object - INFO - passing password
+2022-01-03 10:43:22,317 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 10:43:27,845 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:43:31,444 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 10:43:31,481 - Login_Page_object - INFO - passing user_id
+2022-01-03 10:43:31,529 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 10:43:31,572 - Login_Page_object - INFO - passing password
+2022-01-03 10:43:31,612 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 10:43:38,138 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:43:42,604 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 10:43:42,643 - Login_Page_object - INFO - passing user_id
+2022-01-03 10:43:42,698 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 10:43:42,740 - Login_Page_object - INFO - passing password
+2022-01-03 10:43:42,783 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 10:43:49,326 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:43:49,326 - test_login_DDT - INFO - ******* DDT Login test passed **********
+2022-01-03 10:43:49,444 - test_login_DDT - INFO - ******* End of Login DDT Test **********
+2022-01-03 10:43:49,444 - test_login_DDT - INFO - **************** Completed  TC_LoginDDT_002 ************* 

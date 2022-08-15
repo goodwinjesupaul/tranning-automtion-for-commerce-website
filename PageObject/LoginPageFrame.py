@@ -5,9 +5,11 @@ from selenium.webdriver.common.keys import Keys
 
 class LoginTest:
     logger = LogGen.loggen(name = "Login_Page_object")
-    Text_box_User_Id = "email"
-    Text_box_Password = "pass"
-    Button_Login = "//button[@name='login']"
+    Text_box_User_Id = "Email"
+    Text_box_Password = "Password"
+    Button_Login ="/html/body/div[6]/div/div/div/div/div[2]/div[1]/div/form/div[3]/button"  
+    # "//button[@name='login']"
+    Button_Logout = "//*[@id='navbarText']/ul/li[3]/a"
 
     def __init__(self,driver):
         self.driver = driver
@@ -30,4 +32,6 @@ class LoginTest:
         self.logger.info("selecting login_in_button")
         self.driver.find_element(By.XPATH,self.Button_Login).click()
         
-        
+    def clickLogout(self):
+        self.logger.info("selecting login_out_button")
+        self.driver.find_element(By.XPATH,self.Button_Logout).click()        

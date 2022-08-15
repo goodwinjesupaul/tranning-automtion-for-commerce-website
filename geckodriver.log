@@ -260,3 +260,34 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i22K4/yB/l/en_GB/4Lft
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1641211710545	geckodriver	INFO	Listening on 127.0.0.1:50541
+1641211713576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50544" "-no-remote" "-profile" "C:\\Users\\Goodwin\\AppData\\Local\\Temp\\rust_mozprofileLTW8gx"
+1641211714355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Goodwin\\AppData\\Local\\Temp\\rust_mozprofileM3kskN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50543/devtools/browser/40c908a2-0c41-4f1a-9212-002765dbe13a
+1641211718790	Marionette	INFO	Listening on port 50553
+1641211718859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/y4/l/en_GB/o5XjgaLVgY-.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i22K4/yB/l/en_GB/4LftgUjVa4c.js?_nc_x=qVaMqc65AA_, line 160: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641211727384	Marionette	INFO	Stopped listening on port 50554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

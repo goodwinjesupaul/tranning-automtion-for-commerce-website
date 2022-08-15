@@ -1,0 +1,9 @@
+2022-01-03 10:30:56,839 - test_login_DDT - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-01-03 10:30:56,839 - test_login_DDT - INFO - ******* Starting Login DDT Test **********
+2022-01-03 10:31:14,546 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:31:27,198 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:31:36,013 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:31:46,224 - test_login_DDT - INFO - **** passed ****
+2022-01-03 10:31:46,224 - test_login_DDT - INFO - ******* DDT Login test passed **********
+2022-01-03 10:31:46,344 - test_login_DDT - INFO - ******* End of Login DDT Test **********
+2022-01-03 10:31:46,345 - test_login_DDT - INFO - **************** Completed  TC_LoginDDT_002 ************* 

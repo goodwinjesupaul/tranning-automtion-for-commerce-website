@@ -1,0 +1,8 @@
+2022-01-03 09:36:20,843 - conftest - INFO - Requested configfile path : chrome
+2022-01-03 09:36:22,378 - conftest - INFO - created chrome driver
+2022-01-03 09:36:27,364 - Login_Page_object - INFO - ********* Driver recieved ***********
+2022-01-03 09:36:27,400 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 09:36:27,440 - Login_Page_object - INFO - passing user_id
+2022-01-03 09:36:27,495 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 09:36:27,534 - Login_Page_object - INFO - passing password
+2022-01-03 09:36:27,575 - Login_Page_object - INFO - selecting login_out_button

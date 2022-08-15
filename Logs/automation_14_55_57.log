@@ -1,0 +1,19 @@
+2022-01-03 09:55:58,016 - conftest - INFO - Requested configfile path : chrome
+2022-01-03 09:55:59,585 - conftest - INFO - created chrome driver
+2022-01-03 09:56:06,168 - Login_Page_object - INFO - ********* Driver recieved ***********
+2022-01-03 09:56:06,226 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 09:56:06,271 - Login_Page_object - INFO - passing user_id
+2022-01-03 09:56:06,339 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 09:56:06,390 - Login_Page_object - INFO - passing password
+2022-01-03 09:56:06,439 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 09:56:15,771 - Login_Page_object - INFO - selecting login_out_button
+2022-01-03 09:56:21,982 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 09:56:22,016 - Login_Page_object - INFO - passing user_id
+2022-01-03 09:56:22,070 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 09:56:22,105 - Login_Page_object - INFO - passing password
+2022-01-03 09:56:22,145 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 09:56:28,726 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 09:56:28,761 - Login_Page_object - INFO - passing user_id
+2022-01-03 09:56:28,810 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 09:56:28,849 - Login_Page_object - INFO - passing password
+2022-01-03 09:56:28,896 - Login_Page_object - INFO - selecting login_in_button

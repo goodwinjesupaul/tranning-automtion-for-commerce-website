@@ -1,0 +1,23 @@
+2022-01-03 06:58:02,926 - conftest - INFO - Requested configfile path : C:\Users\Goodwin\Documents\FaceBookApp\Configuration\config.json
+2022-01-03 06:58:02,927 - conftest - INFO - Requested configfile path : chrome
+2022-01-03 06:58:02,927 - conftest - INFO - Requested configfile path : chrome
+2022-01-03 06:58:02,927 - conftest - INFO - Getting test details for chrome
+2022-01-03 06:58:02,929 - conftest - INFO - Requested validator : {'test_case_1': {'title_name': 'Facebook'}, 'test_case_2': {'title_name': 'Facebook – log in or sign up'}}
+2022-01-03 06:58:02,930 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2022-01-03 06:58:02,930 - Utility - INFO - Requested base_url : https://www.facebook.com/
+2022-01-03 06:58:02,930 - Utility - INFO - Requested User_name : 9363262047
+2022-01-03 06:58:02,930 - Utility - INFO - Requested User_name : 9363262047
+2022-01-03 06:58:02,930 - Utility - INFO - Requested Password : goodwin
+2022-01-03 06:58:02,931 - Utility - INFO - Requested Password : goodwin
+2022-01-03 06:58:05,593 - conftest - INFO - created chrome driver
+2022-01-03 06:58:05,597 - Test_01 - INFO - ************** test login began **************
+2022-01-03 06:58:05,601 - conftest - INFO - created chrome driver
+2022-01-03 06:58:05,605 - Test_01 - INFO - *************** Test_001_Login *****************
+2022-01-03 06:58:05,606 - Test_01 - INFO - ****Started Home page title test ****
+2022-01-03 06:58:07,157 - Login_Page_object - INFO - ********* Driver recieved ***********
+2022-01-03 06:58:07,158 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 06:58:07,158 - Test_01 - INFO - ****Home page title test passed****
+2022-01-03 06:58:07,222 - Login_Page_object - INFO - passing user_id
+2022-01-03 06:58:07,298 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 06:58:07,352 - Login_Page_object - INFO - passing password
+2022-01-03 06:58:07,415 - Login_Page_object - INFO - selecting login_in_button

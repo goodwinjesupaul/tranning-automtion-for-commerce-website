@@ -1,0 +1,17 @@
+2022-01-03 10:05:21,177 - Login_Page_object - INFO - ********* Driver recieved ***********
+2022-01-03 10:05:21,214 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 10:05:21,254 - Login_Page_object - INFO - passing user_id
+2022-01-03 10:05:21,306 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 10:05:21,346 - Login_Page_object - INFO - passing password
+2022-01-03 10:05:21,385 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 10:05:31,797 - Login_Page_object - INFO - selecting login_out_button
+2022-01-03 10:05:33,607 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 10:05:33,642 - Login_Page_object - INFO - passing user_id
+2022-01-03 10:05:33,693 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 10:05:33,726 - Login_Page_object - INFO - passing password
+2022-01-03 10:05:33,765 - Login_Page_object - INFO - selecting login_in_button
+2022-01-03 10:05:39,287 - Login_Page_object - INFO - clearing text_box_user_id
+2022-01-03 10:05:39,325 - Login_Page_object - INFO - passing user_id
+2022-01-03 10:05:39,376 - Login_Page_object - INFO - clearing pasword_text_box
+2022-01-03 10:05:39,416 - Login_Page_object - INFO - passing password
+2022-01-03 10:05:39,460 - Login_Page_object - INFO - selecting login_in_button
